@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> ### Cytometry in R
+- Location: TX, USA
+- Favorite Fluorophore: NA
+- Previous coding experience: SQL for a class?
+- What I hope to get from this course: Actually applying any coding that I've learned and will learn 
+
+
